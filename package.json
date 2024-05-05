@@ -6,6 +6,9 @@
   "scripts": {
     "test": "exit 0"
   },
+  "publishConfig": {
+    "@xrdavies:registry": "https://npm.pkg.github.com/"
+  },
   "author": "",
   "license": "ISC"
 }
